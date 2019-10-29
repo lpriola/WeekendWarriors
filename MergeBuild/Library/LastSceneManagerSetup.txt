@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/dla11/Documents/GitHub/CleanBuild/Assets/Scenes/PinballProject.unity
+  isLoaded: 1
+  isActive: 1
