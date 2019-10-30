@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\dla11\\Documents\\GitHub\\MergedAndroidExport\\MergeBuild\\build\\intermediates\\res\\merged\\debug\\values-v21_values-v21.arsc.flat",
+            "outputFile": "C:\\Users\\jtorr\\Desktop\\GitHub(CEN4020)\\WeekendWarriors\\MergedAndroidExport\\MergeBuild\\build\\intermediates\\res\\merged\\debug\\values-v21_values-v21.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\dla11\\Documents\\GitHub\\MergedAndroidExport\\MergeBuild\\src\\main\\res\\values-v21\\styles.xml",
+                    "source": "C:\\Users\\jtorr\\Desktop\\GitHub(CEN4020)\\WeekendWarriors\\MergedAndroidExport\\MergeBuild\\src\\main\\res\\values-v21\\styles.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "0",
@@ -25,10 +25,10 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\dla11\\Documents\\GitHub\\MergedAndroidExport\\MergeBuild\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "outputFile": "C:\\Users\\jtorr\\Desktop\\GitHub(CEN4020)\\WeekendWarriors\\MergedAndroidExport\\MergeBuild\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\dla11\\Documents\\GitHub\\MergedAndroidExport\\MergeBuild\\src\\main\\res\\values\\strings.xml",
+                    "source": "C:\\Users\\jtorr\\Desktop\\GitHub(CEN4020)\\WeekendWarriors\\MergedAndroidExport\\MergeBuild\\src\\main\\res\\values\\strings.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "2,2",
@@ -45,7 +45,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\dla11\\Documents\\GitHub\\MergedAndroidExport\\MergeBuild\\src\\main\\res\\values\\styles.xml",
+                    "source": "C:\\Users\\jtorr\\Desktop\\GitHub(CEN4020)\\WeekendWarriors\\MergedAndroidExport\\MergeBuild\\src\\main\\res\\values\\styles.xml",
                     "from": {
                         "startLines": "5,2,7",
                         "startColumns": "0,0,0",

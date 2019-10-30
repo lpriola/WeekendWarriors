@@ -6,13 +6,14 @@ using UnityEngine.UI;
 public class PlungerScript : MonoBehaviour
 {
     float power;
-    float minPower = 0f;
-    public float maxPower = 100f;
+    float minPower = 0f;            // min power for plunger
+    public float maxPower = 100f;   // max power for plunger
     public Slider powerSlider;
     List<Rigidbody> ballList;
     bool ballReady;
-    private float ScreenWidth;
+    private float ScreenWidth;      // sets screenwidth for touch
 
+    // sets power for plunger
     void Start()
     {
         powerSlider.minValue = minPower;
@@ -38,6 +39,8 @@ public class PlungerScript : MonoBehaviour
         if (ballList.Count > 0)
         {
             ballReady = true;
+
+            // if user touches screen
             if (i < Input.touchCount)
             {
                 if (power <= maxPower)
@@ -45,6 +48,8 @@ public class PlungerScript : MonoBehaviour
                     power += 50 * Time.deltaTime;
                 }
             }
+
+            // if user untouches screen
             if (i == Input.touchCount)
             {
                 foreach(Rigidbody r in ballList)
@@ -60,6 +65,7 @@ public class PlungerScript : MonoBehaviour
         }
     }
 
+    // collides with ball
     private void OnTriggerEnter(Collider other)
     {
         if (other.gameObject.CompareTag("Ball"))

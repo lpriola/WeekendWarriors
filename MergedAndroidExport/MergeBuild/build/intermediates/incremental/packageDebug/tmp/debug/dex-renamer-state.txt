@@ -1,7 +1,7 @@
-#Mon Oct 28 23:51:30 EDT 2019
-base.0=C\:\\Users\\dla11\\Documents\\GitHub\\MergedAndroidExport\\MergeBuild\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+#Tue Oct 29 22:12:01 EDT 2019
+base.0=C\:\\Users\\jtorr\\Desktop\\GitHub(CEN4020)\\WeekendWarriors\\MergedAndroidExport\\MergeBuild\\build\\intermediates\\transforms\\dexMerger\\debug\\0
 path.1=classes.dex
 renamed.1=classes2.dex
 path.0=classes.dex
 renamed.0=classes.dex
-base.1=C\:\\Users\\dla11\\Documents\\GitHub\\MergedAndroidExport\\MergeBuild\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+base.1=C\:\\Users\\jtorr\\Desktop\\GitHub(CEN4020)\\WeekendWarriors\\MergedAndroidExport\\MergeBuild\\build\\intermediates\\transforms\\dexMerger\\debug\\1

@@ -89,7 +89,7 @@
     </content>
     <orderEntry type="jdk" jdkName="Android API 29 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="Gradle: __local_aars__:C.\Users\dla11\Documents\GitHub\MergedAndroidExport\MergeBuild\libs\unity-classes.jar:unspecified@jar" level="project" />
+    <orderEntry type="library" name="Gradle: __local_aars__:C.\Users\jtorr\Desktop\GitHub(CEN4020)\WeekendWarriors\MergedAndroidExport\MergeBuild\libs\unity-classes.jar:unspecified@jar" level="project" />
     <orderEntry type="library" name="Gradle: android-android-29" level="project" />
   </component>
 </module>
