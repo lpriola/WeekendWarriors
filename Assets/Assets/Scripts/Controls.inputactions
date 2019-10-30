@@ -1,0 +1,33 @@
+{
+    "name": "Controls",
+    "maps": [
+        {
+            "name": "LeftFlipper",
+            "id": "1c55f955-8e72-4007-928a-0e7ccdf06731",
+            "actions": [
+                {
+                    "name": "Up",
+                    "type": "Button",
+                    "id": "383b7481-7124-4629-a952-ab9edbd646a4",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "02704ad7-dd1a-43c7-afe9-f663a8327732",
+                    "path": "<Touchscreen>/press",
+                    "interactions": "Press",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Up",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
