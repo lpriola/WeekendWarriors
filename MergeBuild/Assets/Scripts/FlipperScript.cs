@@ -7,7 +7,7 @@ public class FlipperScript : MonoBehaviour
     public float rest_position = 0f;
     public float left_pressed_position = -45f;   // position of left flipper when touched
     public float right_pressed_position = 45f;   // position of right flipper when touched
-    public float strength_hit = 10000f;
+    public float strength_hit = 9000f;
     public float flipper_damper = 150f;
     HingeJoint hinge;
     //public string input_name;
@@ -31,6 +31,7 @@ public class FlipperScript : MonoBehaviour
         spring.targetPosition = rest_position;
         hinge.spring = spring;
         hinge.useLimits = true;
+       
         while (i < Input.touchCount)
         {
             // activates right flipper if right screen is touched

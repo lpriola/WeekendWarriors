@@ -26,6 +26,7 @@ public class PlungerScript : MonoBehaviour
     void Update()
     {
         int i = 0;
+       
         if (ballReady)
         {
             powerSlider.gameObject.SetActive(true);
