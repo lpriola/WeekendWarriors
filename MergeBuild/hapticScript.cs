@@ -12,7 +12,7 @@ public class FeedbackClass : MonoBehaviour
 	*/
 	
 	public int ballScore = 0;
-    void OnCollision(Collision2D col)
+    void OnCollisionEnter(Collision col)
     {
         if(col.gameObject.tag == "normal"){			
 			ballScore += 5;
