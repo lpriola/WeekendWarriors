@@ -1,17 +1,17 @@
-﻿using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
 public class BonusRound : MonoBehaviour
 {
     public GameObject pinball;
-    private GameObject clone;
+    public GameObject clone;
     private Vector3 appearPosition;
 
     // Start is called before the first frame update
     void Start()
     {
-        appearPosition = new Vector3(1, (float)0.15, (float)-4.35);
+        appearPosition = new Vector3(3.0f, 0.15f, -4.35f);
     }
 
     // When enter black hole, extra ball created
@@ -22,16 +22,20 @@ public class BonusRound : MonoBehaviour
         {
             clone = Instantiate(pinball);
             clone.transform.position = appearPosition;
+            PlayerController.ballCount += 1;        // add an extra ball to counter
         }
     }
 
     // Update is called once per frame
     void Update()
     {
-        if(clone.transform.position.z <= (-6.0))
+        if(clone != null)
         {
-            DestroyImmediate(clone);
+            if (clone.transform.position.z <= (-6.0))
+            {
+                DestroyImmediate(clone);        //destroy the extra ball (clone)
+                PlayerController.ballCount -= 1;    // subtract one from ball counter
+            }
         }
-       
     }
 }
