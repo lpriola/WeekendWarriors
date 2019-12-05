@@ -8,15 +8,13 @@ public class BonusRound : MonoBehaviour
 
     private GameObject clone;
     private Vector3 appearPosition;
-    private Vector3 resetPosition;
-    private float distance = 0.75f;  // change this depending on how "close" it needs to be
     private List<GameObject> bonusList;
 
     // Start is called before the first frame update
     void Start()
     {
         appearPosition = new Vector3(3, (float)0.25, (float)-4.7);
-        resetPosition = new Vector3(0, 0, -7);
+        bonusList = new List<GameObject>();
     }
 
     // When enter black hole, extra ball created
@@ -27,20 +25,26 @@ public class BonusRound : MonoBehaviour
         {
             clone = Instantiate(pinball);
             clone.transform.position = appearPosition;
-            //bonusList.Add(clone);
+            bonusList.Add(clone); //list of clones created
         }
     }
 
     // Update is called once per frame
     void Update()
     {
-        //foreach (GameObject bonusBall in bonusList)
-        //{
-        //    if (Vector3.Distance(bonusBall.transform.position, resetPosition) < distance)
-        //    {
-        //        GameObject.Destroy(bonusBall);
-        //    }
-        //}
+
+        if (bonusList != null)
+        {
+            for (int i=0;i<bonusList.Count;i++)
+            {
+                if (bonusList[i].transform.position.z <= (-6.3))
+                {
+                    Destroy(bonusList[i].gameObject);        //destroy the extra ball (clone)
+                    bonusList.Remove(bonusList[i]);
+                }
+            }
+            
+        }
 
     }
 }
