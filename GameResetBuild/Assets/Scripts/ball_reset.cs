@@ -29,7 +29,7 @@ public class ball_reset : MonoBehaviour
     private float distance = 0.75f;  // change this depending on how "close" it needs to be
     private int ballCount;
     private int finalScore;
-    private int winningScore = 10000;
+    private int winningScore = 1500;
   
     public void Start()
     {
@@ -52,6 +52,7 @@ public class ball_reset : MonoBehaviour
                 finalScore = Int32.Parse(scoreValue.text);
                 if (finalScore < winningScore)
                 {
+                    gameOverString.text = "GAME OVER";
                     gameOverText.SetActive(true);
                     shame.SetActive(true);
                     resetButton.SetActive(true);
