@@ -1,0 +1,134 @@
+[
+    {
+        "merged": "D:\\MergeBuild - Copy\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_app_icon_round.png.flat",
+        "source": "D:\\MergeBuild - Copy\\src\\main\\res\\mipmap-hdpi\\app_icon_round.png"
+    },
+    {
+        "merged": "D:\\MergeBuild - Copy\\build\\intermediates\\res\\merged\\debug\\mipmap-ldpi_app_icon.png.flat",
+        "source": "D:\\MergeBuild - Copy\\src\\main\\res\\mipmap-ldpi\\app_icon.png"
+    },
+    {
+        "merged": "D:\\MergeBuild - Copy\\build\\intermediates\\res\\merged\\debug\\drawable_pull_out_ui.png.flat",
+        "source": "D:\\MergeBuild - Copy\\src\\main\\res\\drawable\\pull_out_ui.png"
+    },
+    {
+        "merged": "D:\\MergeBuild - Copy\\build\\intermediates\\res\\merged\\debug\\drawable_standard_bg.png.flat",
+        "source": "D:\\MergeBuild - Copy\\src\\main\\res\\drawable\\standard_bg.png"
+    },
+    {
+        "merged": "D:\\MergeBuild - Copy\\build\\intermediates\\res\\merged\\debug\\drawable_fsu_loss_logo.jpg.flat",
+        "source": "D:\\MergeBuild - Copy\\src\\main\\res\\drawable\\fsu_loss_logo.jpg"
+    },
+    {
+        "merged": "D:\\MergeBuild - Copy\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_app_icon.png.flat",
+        "source": "D:\\MergeBuild - Copy\\src\\main\\res\\mipmap-hdpi\\app_icon.png"
+    },
+    {
+        "merged": "D:\\MergeBuild - Copy\\build\\intermediates\\res\\merged\\debug\\drawable_pull_down_window_empty.png.flat",
+        "source": "D:\\MergeBuild - Copy\\src\\main\\res\\drawable\\pull_down_window_empty.png"
+    },
+    {
+        "merged": "D:\\MergeBuild - Copy\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\MergeBuild - Copy\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\MergeBuild - Copy\\build\\intermediates\\res\\merged\\debug\\raw_title_music.mp3.flat",
+        "source": "D:\\MergeBuild - Copy\\src\\main\\res\\raw\\title_music.mp3"
+    },
+    {
+        "merged": "D:\\MergeBuild - Copy\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_app_icon_round.png.flat",
+        "source": "D:\\MergeBuild - Copy\\src\\main\\res\\mipmap-xhdpi\\app_icon_round.png"
+    },
+    {
+        "merged": "D:\\MergeBuild - Copy\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_app_icon_round.png.flat",
+        "source": "D:\\MergeBuild - Copy\\src\\main\\res\\mipmap-mdpi\\app_icon_round.png"
+    },
+    {
+        "merged": "D:\\MergeBuild - Copy\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_app_icon.png.flat",
+        "source": "D:\\MergeBuild - Copy\\src\\main\\res\\mipmap-mdpi\\app_icon.png"
+    },
+    {
+        "merged": "D:\\MergeBuild - Copy\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_app_icon.png.flat",
+        "source": "D:\\MergeBuild - Copy\\src\\main\\res\\mipmap-xxhdpi\\app_icon.png"
+    },
+    {
+        "merged": "D:\\MergeBuild - Copy\\build\\intermediates\\res\\merged\\debug\\drawable_newwidebg.png.flat",
+        "source": "D:\\MergeBuild - Copy\\src\\main\\res\\drawable\\newwidebg.png"
+    },
+    {
+        "merged": "D:\\MergeBuild - Copy\\build\\intermediates\\res\\merged\\debug\\drawable_pinball_machine.png.flat",
+        "source": "D:\\MergeBuild - Copy\\src\\main\\res\\drawable\\pinball_machine.png"
+    },
+    {
+        "merged": "D:\\MergeBuild - Copy\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "D:\\MergeBuild - Copy\\src\\main\\res\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\MergeBuild - Copy\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_app_icon_round.png.flat",
+        "source": "D:\\MergeBuild - Copy\\src\\main\\res\\mipmap-xxxhdpi\\app_icon_round.png"
+    },
+    {
+        "merged": "D:\\MergeBuild - Copy\\build\\intermediates\\res\\merged\\debug\\drawable_settings_page.png.flat",
+        "source": "D:\\MergeBuild - Copy\\src\\main\\res\\drawable\\settings_page.png"
+    },
+    {
+        "merged": "D:\\MergeBuild - Copy\\build\\intermediates\\res\\merged\\debug\\raw_pinball_sfx.mp3.flat",
+        "source": "D:\\MergeBuild - Copy\\src\\main\\res\\raw\\pinball_sfx.mp3"
+    },
+    {
+        "merged": "D:\\MergeBuild - Copy\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_app_icon_round.png.flat",
+        "source": "D:\\MergeBuild - Copy\\src\\main\\res\\mipmap-xxhdpi\\app_icon_round.png"
+    },
+    {
+        "merged": "D:\\MergeBuild - Copy\\build\\intermediates\\res\\merged\\debug\\font_nole_font.otf.flat",
+        "source": "D:\\MergeBuild - Copy\\src\\main\\res\\font\\nole_font.otf"
+    },
+    {
+        "merged": "D:\\MergeBuild - Copy\\build\\intermediates\\res\\merged\\debug\\drawable_playercount.png.flat",
+        "source": "D:\\MergeBuild - Copy\\src\\main\\res\\drawable\\playercount.png"
+    },
+    {
+        "merged": "D:\\MergeBuild - Copy\\build\\intermediates\\res\\merged\\debug\\drawable_pinball.gif.flat",
+        "source": "D:\\MergeBuild - Copy\\src\\main\\res\\drawable\\pinball.gif"
+    },
+    {
+        "merged": "D:\\MergeBuild - Copy\\build\\intermediates\\res\\merged\\debug\\drawable_widebg.png.flat",
+        "source": "D:\\MergeBuild - Copy\\src\\main\\res\\drawable\\widebg.png"
+    },
+    {
+        "merged": "D:\\MergeBuild - Copy\\build\\intermediates\\res\\merged\\debug\\layout_mainmenu.xml.flat",
+        "source": "D:\\MergeBuild - Copy\\src\\main\\res\\layout\\mainmenu.xml"
+    },
+    {
+        "merged": "D:\\MergeBuild - Copy\\build\\intermediates\\res\\merged\\debug\\drawable_menu_bar.png.flat",
+        "source": "D:\\MergeBuild - Copy\\src\\main\\res\\drawable\\menu_bar.png"
+    },
+    {
+        "merged": "D:\\MergeBuild - Copy\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_app_icon.png.flat",
+        "source": "D:\\MergeBuild - Copy\\src\\main\\res\\mipmap-xhdpi\\app_icon.png"
+    },
+    {
+        "merged": "D:\\MergeBuild - Copy\\build\\intermediates\\res\\merged\\debug\\drawable_titled_bg.png.flat",
+        "source": "D:\\MergeBuild - Copy\\src\\main\\res\\drawable\\titled_bg.png"
+    },
+    {
+        "merged": "D:\\MergeBuild - Copy\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_app_icon.png.flat",
+        "source": "D:\\MergeBuild - Copy\\src\\main\\res\\mipmap-xxxhdpi\\app_icon.png"
+    },
+    {
+        "merged": "D:\\MergeBuild - Copy\\build\\intermediates\\res\\merged\\debug\\drawable_scrollablebg.png.flat",
+        "source": "D:\\MergeBuild - Copy\\src\\main\\res\\drawable\\scrollablebg.png"
+    },
+    {
+        "merged": "D:\\MergeBuild - Copy\\build\\intermediates\\res\\merged\\debug\\mipmap-ldpi_app_icon_round.png.flat",
+        "source": "D:\\MergeBuild - Copy\\src\\main\\res\\mipmap-ldpi\\app_icon_round.png"
+    },
+    {
+        "merged": "D:\\MergeBuild - Copy\\build\\intermediates\\res\\merged\\debug\\drawable_seminole_head.png.flat",
+        "source": "D:\\MergeBuild - Copy\\src\\main\\res\\drawable\\seminole_head.png"
+    },
+    {
+        "merged": "D:\\MergeBuild - Copy\\build\\intermediates\\res\\merged\\debug\\drawable_bigtest.gif.flat",
+        "source": "D:\\MergeBuild - Copy\\src\\main\\res\\drawable\\bigtest.gif"
+    }
+]
